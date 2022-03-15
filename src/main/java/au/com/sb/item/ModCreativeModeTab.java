@@ -1,0 +1,14 @@
+package au.com.sb.item;
+
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.ItemStack;
+
+public class ModCreativeModeTab {
+
+    public static final CreativeModeTab SB_TAB = new CreativeModeTab("sbtab") {
+        @Override
+        public ItemStack makeIcon() {
+            return new ItemStack(ModItems.COBALT_INGOT.get());
+        }
+    };
+}
