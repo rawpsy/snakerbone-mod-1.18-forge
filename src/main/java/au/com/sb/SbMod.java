@@ -1,5 +1,6 @@
 package au.com.sb;
 
+import au.com.sb.block.ModBlocks;
 import au.com.sb.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -30,6 +31,7 @@ public class SbMod
         eventBus.addListener(this::setup);
 
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
     }
