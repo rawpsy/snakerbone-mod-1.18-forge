@@ -1,6 +1,11 @@
 {
 
   "item.sb.cobalt_ingot": "Cobalt Ingot",
-  "item.sb.cobalt_nugget": "Cobalt Nugget"
+  "item.sb.cobalt_nugget": "Cobalt Nugget",
+
+  "block.sb.cobalt_block": "Cobalt Block",
+  "block.sb.cobalt_ore": "Cobalt Ore",
+
+  "itemGroup.sbtab": "SnakerBone"
 
 }
