@@ -2,6 +2,9 @@
 
   "item.sb.cobalt_ingot": "Cobalt Ingot",
   "item.sb.cobalt_nugget": "Cobalt Nugget",
+  "item.sb.dowsing_rod": "Dowsing Rod",
+
+  "item.sb.dowsing_rod.no_ores_found": "No Ores Found!",
 
   "block.sb.cobalt_block": "Cobalt Block",
   "block.sb.cobalt_ore": "Cobalt Ore",
