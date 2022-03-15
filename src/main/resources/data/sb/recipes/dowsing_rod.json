@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    " S ",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "sb:cobalt_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sb:dowsing_rod",
+    "count": 1
+  }
+}
